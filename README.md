@@ -7,3 +7,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I think the ‘undo’ button is humanity’s greatest invention after the wheel.
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=architachakraborty&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=architachakraborty&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=architachakraborty&theme=radical)
+
